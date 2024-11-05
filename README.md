@@ -1,81 +1,78 @@
 # JavaScript Books 📚
 
-**JavaScript Books** is an open-source project that picks out some of the top JavaScript books for developers. Every book in this collection has been selected based on its quality, effectiveness, and ability to enhance knowledge in JavaScript programming.
+**JavaScript Books** is an open-source collection of highly recommended JavaScript books for developers at all levels. Each book is chosen for its quality, depth, and ability to strengthen your JavaScript programming skills.
 
 ---
 
-### Getting Started 🚀
+### 📖 Overview
 
-To get the most out of this list:
-
-1. Start with the **Beginner** books if you're new to JavaScript.
-2. Move on to the **Intermediate** and **Advanced** sections as your skills progress.
-3. Tackle the **Expert-Level** books for in-depth knowledge of specialized and complex topics.
-
-These resources are organized to help you follow a structured learning path from beginner to advanced levels.
+JavaScript Books is a curated resource designed to guide developers in building a solid foundation and advancing their JavaScript expertise. This list includes books spanning from beginner fundamentals to expert-level insights, covering all facets of JavaScript development.
 
 ---
 
-### Beginner 📖
+### 🚀 Getting Started
 
-1. [JavaScript for Absolute Beginners](https://mymyeo.com/wp-content/uploads/2024/05/JavaScript-for-Absolute-Beginner.pdf)
-2. [JavaScript for Kids: A Playful Introduction to Programming](https://www.ips.ac.rs/wp-content/uploads/2017/07/jsfkids.pdf)
-3. [JavaScript For Kids For Dummies](https://pepa.holla.cz/wp-content/uploads/2015/11/JavaScript-For-Dummies-4th-Edition.pdf)
-4. [Head First JavaScript](<https://aaronyeo.org/books_/JavaScript/Eric%20T.%20Freeman,%20Elisabeth%20Robson%20-%20Head%20First%20JavaScript%20Programming_%20A%20Brain-Friendly%20Guide-O%E2%80%99Reilly%20Media%20(2014).pdf>)
-5. [JavaScript Step by Step](https://ptgmedia.pearsoncmg.com/images/9780735665934/samplepages/9780735665934.pdf)
-6. [JavaScript: The Good Parts](https://andersonguelphjs.github.io/OReilly_JavaScript_The_Good_Parts_May_2008.pdf)
-7. [JavaScript: The Missing Manual](https://pepa.holla.cz/wp-content/uploads/2016/08/JavaScript-The-Missing-Manual.pdf)
+To maximize your learning experience:
 
-### Intermediate 📘
+1. **Beginner**: Start with introductory books if you're new to JavaScript.
+2. **Intermediate and Advanced**: Progress to more complex topics as your skills grow.
+3. **Expert-Level**: Dive into specialized and complex topics for in-depth mastery.
 
-1. [Eloquent JavaScript: A Modern Introduction to Programming](https://eloquentjavascript.net/Eloquent_JavaScript_small.pdf)
-2. [Data Structures and Algorithms with JavaScript](https://sar.ac.id/stmik_ebook/prog_file_file/PfuUScPyT9.pdf)
-3. [Ajax for Dummies](https://theswissbay.ch/pdf/Gentoomen%20Library/Programming/Ajax/Ajax%20For%20Dummies%20%282006%29.pdf)
-4. [Learning JavaScript Design Patterns](<https://github.com/manjunath5496/JavaScript-Programming-Books/blob/master/javs(12).pdf>)
-5. [JavaScript 2.0 - The Complete Reference](<https://github.com/manjunath5496/JavaScript-Programming-Books/blob/master/javs(13).pdf>)
-6. [JavaScript Enlightenment](<https://github.com/manjunath5496/JavaScript-Programming-Books/blob/master/javs(31).pdf>)
-7. [The Principles of Object-Oriented JavaScript](<https://github.com/manjunath5496/JavaScript-Programming-Books/blob/master/javs(25).pdf>)
-
-### Advanced 📗
-
-1. [JavaScript: The Definitive Guide](<https://github.com/manjunath5496/JavaScript-Programming-Books/blob/master/javs(9).pdf>)
-2. [Understanding ECMAScript 6: The Definitive Guide for JavaScript Developers](<https://github.com/manjunath5496/JavaScript-Programming-Books/blob/master/javs(20).pdf>)
-3. [Professional JavaScript for Web Developers](<https://github.com/manjunath5496/JavaScript-Programming-Books/blob/master/javs(15).pdf>)
-4. [JavaScript Web Applications](<https://github.com/manjunath5496/JavaScript-Programming-Books/blob/master/javs(8).pdf>)
-5. [Programming JavaScript Applications](<https://github.com/manjunath5496/JavaScript-Programming-Books/blob/master/javs(16).pdf>)
-6. [Maintainable JavaScript](<https://github.com/manjunath5496/JavaScript-Programming-Books/blob/master/javs(19).pdf>)
-7. [Functional JavaScript](<https://github.com/manjunath5496/JavaScript-Programming-Books/blob/master/javs(30).pdf>)
-
-### Expert-Level 📒
-
-1. [Secrets of the JavaScript Ninja](<https://github.com/manjunath5496/JavaScript-Programming-Books/blob/master/javs(24).pdf>)
-2. [Testable JavaScript](<https://github.com/manjunath5496/JavaScript-Programming-Books/blob/master/javs(28).pdf>)
-3. [Node.js in Action](<https://github.com/manjunath5496/JavaScript-Programming-Books/blob/master/javs(21).pdf>)
-4. [Node.js Design Patterns](<https://github.com/manjunath5496/JavaScript-Programming-Books/blob/master/javs(22).pdf>)
-5. [Pro JavaScript Techniques](<https://github.com/manjunath5496/JavaScript-Programming-Books/blob/master/javs(23).pdf>)
-6. [You Don’t Know JS: Scope and Closures](<https://github.com/manjunath5496/JavaScript-Programming-Books/blob/master/javs(18).pdf>)
-7. [You Don’t Know JS: ES6 and Beyond](<https://github.com/manjunath5496/JavaScript-Programming-Books/blob/master/javs(26).pdf>)
+Each section is organized to help you follow a structured learning path from beginner to advanced levels.
 
 ---
 
-### Contributing
+### 📚 JavaScript Books Collection
+
+#### Beginner
+- **[JavaScript for Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)** - Microsoft
+- **[JavaScript For Cats](http://jsforcats.com)** - Maxwell Ogden (HTML)
+- **[Eloquent JavaScript 3rd edition](http://eloquentjavascript.net)** - Marijn Haverbeke (HTML, PDF, EPUB, MOBI) (CC BY-NC)
+- **[The JavaScript Beginner's Handbook](https://flaviocopes.com/page/javascript-handbook/)** - Flavio Copes (PDF, EPUB, Kindle)
+- **[JavaScript Notes for Professionals](https://goalkicker.com/JavaScriptBook/)** - Compiled from StackOverflow documentation (PDF)
+- **[Basic JavaScript for the Impatient Programmer](http://www.2ality.com/2013/06/basic-javascript.html)** - Axel Rauschmayer (HTML)
+
+#### Intermediate
+- **[JavaScript Allongé](https://leanpub.com/javascript-allonge/read)** - Reginald Braithwaite (HTML)
+- **[You Don’t Know JS](https://github.com/getify/You-Dont-Know-JS)** - Kyle Simpson (HTML, PDF, EPUB, MOBI)
+- **[Functional-Light JavaScript](https://github.com/getify/Functional-Light-JS)** - Kyle Simpson (HTML)
+- **[JavaScript Patterns Collection](http://shichuan.github.io/javascript-patterns/)** - Shi Chuan (HTML)
+- **[JavaScript for Impatient Programmers (ES2022 edition)](https://exploringjs.com/impatient-js/)** - Axel Rauschmayer (HTML)
+- **[Clean Code JavaScript](https://github.com/ryanmcdermott/clean-code-javascript)** - Ryan McDermott (HTML)
+- **[Exploring ES6](http://exploringjs.com/es6/)** - Axel Rauschmayer (HTML)
+
+#### Advanced
+- **[JavaScript Spessore](https://web.archive.org/web/20160325064800/https://leanpub.com/javascript-spessore/read)** - Reginald Braithwaite (HTML) *(Archived)*
+- **[Designing Scalable JavaScript Applications](https://www.manning.com/books/designing-scalable-javascript-applications)** - Emmit Scott (PDF + Livebook)
+- **[JavaScript for Data Science](https://third-bit.com/js4ds/)** - Maya Gans, Toby Hodges, Greg Wilson (HTML)
+- **[Robust Client-Side JavaScript](https://molily.de/robust-javascript/)** - Matthias Schäfer (HTML, EPUB)
+- **[Single Page Apps in Depth](http://singlepageappbook.com)** - Mixu (HTML)
+- **[Professor Frisby’s Mostly Adequate Guide to Functional Programming](https://mostly-adequate.gitbooks.io/mostly-adequate-guide/content/)** - Brian Lonsdorf (HTML)
+- **[Speaking JavaScript](https://exploringjs.com/es5/)** - Axel Rauschmayer
+- **[Standard ECMA-262 ECMAScript 2016 Language Specification](https://www.ecma-international.org/publications/standards/Ecma-262.htm)** - Ecma International (HTML, PDF)
+- **[Patterns For Large-Scale JavaScript Application Architecture](http://addyosmani.com/largescalejavascript/)** - Addy Osmani (HTML)
+- **[JavaScript the Right Way](https://github.com/braziljs/js-the-right-way)** - William Oliveira, Allan Esquina (HTML)
+
+---
+
+### 🤝 Contributing
 
 Feel free to suggest new books or resources by opening a pull request. We aim to make this collection as comprehensive and helpful as possible for JavaScript enthusiasts of all levels.
 
+---
 
-### Mission
+### 🎯 Mission
 
 This project was created with the goal of providing a central resource for JavaScript learners and professionals alike. By gathering high-quality literature, we hope to simplify the journey of learning JavaScript and make it accessible to a broader audience.
 
+---
 
-### Acknowledgments
+### 🙏 Acknowledgments
 
 Thanks to all contributors and the JavaScript community for sharing and recommending these books. Your input helps keep this collection up-to-date and valuable for learners worldwide.
 
-
-
 ---
 
-### License
+### 📜 License
 
 This project is licensed under the CC0 1.0 License.
