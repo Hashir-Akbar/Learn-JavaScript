@@ -15,8 +15,8 @@ JavaScript Books is a curated resource designed to guide developers in building 
 To maximize your learning experience:
 
 1. **Beginner**: Start with introductory books if you're new to JavaScript.
-2. **Intermediate and Advanced**: Progress to more complex topics as your skills grow.
-3. **Expert-Level**: Dive into specialized and complex topics for in-depth mastery.
+2. **Intermediate**: Progress to more complex topics as your skills grow.
+3. **Advanced**: Dive into specialized and complex topics for in-depth mastery.
 
 Each section is organized to help you follow a structured learning path from beginner to advanced levels.
 
