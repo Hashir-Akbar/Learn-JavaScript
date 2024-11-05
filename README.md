@@ -6,13 +6,6 @@
 
 Books are listed from beginner-friendly to advanced topics, covering everything from JavaScript basics to complex frameworks and design patterns.
 
-### Mission
-
-This project was created with the goal of providing a central resource for JavaScript learners and professionals alike. By gathering high-quality literature, we hope to simplify the journey of learning JavaScript and make it accessible to a broader audience.
-
-### Contributing
-
-Feel free to suggest new books or resources by opening a pull request. We aim to make this collection as comprehensive and helpful as possible for JavaScript enthusiasts of all levels.
 
 ---
 
@@ -70,9 +63,21 @@ These resources are organized to help you follow a structured learning path from
 
 ---
 
+### Contributing
+
+Feel free to suggest new books or resources by opening a pull request. We aim to make this collection as comprehensive and helpful as possible for JavaScript enthusiasts of all levels.
+
+
+### Mission
+
+This project was created with the goal of providing a central resource for JavaScript learners and professionals alike. By gathering high-quality literature, we hope to simplify the journey of learning JavaScript and make it accessible to a broader audience.
+
+
 ### Acknowledgments
 
 Thanks to all contributors and the JavaScript community for sharing and recommending these books. Your input helps keep this collection up-to-date and valuable for learners worldwide.
+
+
 
 ---
 
