@@ -10,7 +10,6 @@ Books are listed from beginner-friendly to advanced topics, covering everything 
 
 This project was created with the goal of providing a central resource for JavaScript learners and professionals alike. By gathering high-quality literature, we hope to simplify the journey of learning JavaScript and make it accessible to a broader audience.
 
-
 ### Contributing
 
 Feel free to suggest new books or resources by opening a pull request. We aim to make this collection as comprehensive and helpful as possible for JavaScript enthusiasts of all levels.
@@ -27,24 +26,23 @@ To get the most out of this list:
 
 These resources are organized to help you follow a structured learning path from beginner to advanced levels.
 
-
 ---
 
 ### Beginner 📖
 
 1. [JavaScript for Absolute Beginners](https://mymyeo.com/wp-content/uploads/2024/05/JavaScript-for-Absolute-Beginner.pdf)
 2. [JavaScript for Kids: A Playful Introduction to Programming](https://www.ips.ac.rs/wp-content/uploads/2017/07/jsfkids.pdf)
-3. [JavaScript For Kids For Dummies](https://hashir-akbar.github.io/JavaScript-Books/books/JavaScript-For-Kids-For-Dummies.pdf)
-4. [Head First JavaScript](https://aaronyeo.org/books_/JavaScript/Eric%20T.%20Freeman,%20Elisabeth%20Robson%20-%20Head%20First%20JavaScript%20Programming_%20A%20Brain-Friendly%20Guide-O%E2%80%99Reilly%20Media%20(2014).pdf)
+3. [JavaScript For Kids For Dummies](https://pepa.holla.cz/wp-content/uploads/2015/11/JavaScript-For-Dummies-4th-Edition.pdf)
+4. [Head First JavaScript](<https://aaronyeo.org/books_/JavaScript/Eric%20T.%20Freeman,%20Elisabeth%20Robson%20-%20Head%20First%20JavaScript%20Programming_%20A%20Brain-Friendly%20Guide-O%E2%80%99Reilly%20Media%20(2014).pdf>)
 5. [JavaScript Step by Step](https://ptgmedia.pearsoncmg.com/images/9780735665934/samplepages/9780735665934.pdf)
 6. [JavaScript: The Good Parts](https://andersonguelphjs.github.io/OReilly_JavaScript_The_Good_Parts_May_2008.pdf)
 7. [JavaScript: The Missing Manual](https://pepa.holla.cz/wp-content/uploads/2016/08/JavaScript-The-Missing-Manual.pdf)
 
 ### Intermediate 📘
 
-1. [Eloquent JavaScript: A Modern Introduction to Programming](<https://github.com/manjunath5496/JavaScript-Programming-Books/blob/master/javs(3).pdf>)
-2. [Data Structures and Algorithms with JavaScript](<https://github.com/manjunath5496/JavaScript-Programming-Books/blob/master/javs(2).pdf>)
-3. [JavaScript and Ajax for Dummies](<https://github.com/manjunath5496/JavaScript-Programming-Books/blob/master/javs(14).pdf>)
+1. [Eloquent JavaScript: A Modern Introduction to Programming](https://eloquentjavascript.net/Eloquent_JavaScript_small.pdf)
+2. [Data Structures and Algorithms with JavaScript](https://sar.ac.id/stmik_ebook/prog_file_file/PfuUScPyT9.pdf)
+3. [Ajax for Dummies](https://theswissbay.ch/pdf/Gentoomen%20Library/Programming/Ajax/Ajax%20For%20Dummies%20%282006%29.pdf)
 4. [Learning JavaScript Design Patterns](<https://github.com/manjunath5496/JavaScript-Programming-Books/blob/master/javs(12).pdf>)
 5. [JavaScript 2.0 - The Complete Reference](<https://github.com/manjunath5496/JavaScript-Programming-Books/blob/master/javs(13).pdf>)
 6. [JavaScript Enlightenment](<https://github.com/manjunath5496/JavaScript-Programming-Books/blob/master/javs(31).pdf>)
