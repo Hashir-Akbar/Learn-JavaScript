@@ -1,16 +1,21 @@
 # JavaScript Books 📚
 
-**JavaScript Books** is an open-source project that picks out some of the top JavaScript books for developers. Every book in this collection has been selected based on its quality, effectiveness, and ability to enhance knowledge in JavaScript programming. You may improve your JavaScript development skills by using the helpful resources provided, regardless of your level of experience.
+**JavaScript Books** is an open-source project that picks out some of the top JavaScript books for developers. Every book in this collection has been selected based on its quality, effectiveness, and ability to enhance knowledge in JavaScript programming.
 
 ## Book Categories
 
 Books are listed from beginner-friendly to advanced topics, covering everything from JavaScript basics to complex frameworks and design patterns.
 
----
+### Mission
+
+This project was created with the goal of providing a central resource for JavaScript learners and professionals alike. By gathering high-quality literature, we hope to simplify the journey of learning JavaScript and make it accessible to a broader audience.
+
 
 ### Contributing
 
 Feel free to suggest new books or resources by opening a pull request. We aim to make this collection as comprehensive and helpful as possible for JavaScript enthusiasts of all levels.
+
+---
 
 ### Getting Started 🚀
 
@@ -22,21 +27,18 @@ To get the most out of this list:
 
 These resources are organized to help you follow a structured learning path from beginner to advanced levels.
 
-### Mission
-
-This project was created with the goal of providing a central resource for JavaScript learners and professionals alike. By gathering high-quality literature, we hope to simplify the journey of learning JavaScript and make it accessible to a broader audience.
 
 ---
 
 ### Beginner 📖
 
 1. [JavaScript for Absolute Beginners](https://hashir-akbar.github.io/JavaScript-Books/books/JavaScript-for-Absolute-Beginners.pdf)
-2. [JavaScript for Kids: A Playful Introduction to Programming](<https://github.com/manjunath5496/JavaScript-Programming-Books/blob/master/javs(4).pdf>)
-3. [JavaScript For Kids For Dummies](<https://github.com/manjunath5496/JavaScript-Programming-Books/blob/master/javs(5).pdf>)
-4. [Head First JavaScript](<https://github.com/manjunath5496/JavaScript-Programming-Books/blob/master/javs(1).pdf>)
-5. [JavaScript Step by Step](<https://github.com/manjunath5496/JavaScript-Programming-Books/blob/master/javs(6).pdf>)
-6. [JavaScript: The Good Parts](<https://github.com/manjunath5496/JavaScript-Programming-Books/blob/master/javs(7).pdf>)
-7. [JavaScript and JQuery: The Missing Manual](<https://github.com/manjunath5496/JavaScript-Programming-Books/blob/master/javs(10).pdf>)
+2. [JavaScript for Kids: A Playful Introduction to Programming](https://hashir-akbar.github.io/JavaScript-Books/books/JavaScript-for-Kids-A-Playful-Introduction-to-Programming.pdf)
+3. [JavaScript For Kids For Dummies](https://hashir-akbar.github.io/JavaScript-Books/books/JavaScript-For-Kids-For-Dummies.pdf)
+4. [Head First JavaScript](https://hashir-akbar.github.io/JavaScript-Books/books/Head-First-JavaScript.pdf)
+5. [JavaScript Step by Step](https://hashir-akbar.github.io/JavaScript-Books/books/JavaScript-Step-by-Step.pdf)
+6. [JavaScript: The Good Parts](https://hashir-akbar.github.io/JavaScript-Books/books/JavaScript-The-Good-Parts.pdf)
+7. [JavaScript and JQuery: The Missing Manual](https://hashir-akbar.github.io/JavaScript-Books/books/JavaScript-and-JQuery-The-Missing-Manual.pdf)
 
 ### Intermediate 📘
 
