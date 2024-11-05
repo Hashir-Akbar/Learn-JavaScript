@@ -38,7 +38,7 @@ These resources are organized to help you follow a structured learning path from
 4. [Head First JavaScript](https://aaronyeo.org/books_/JavaScript/Eric%20T.%20Freeman,%20Elisabeth%20Robson%20-%20Head%20First%20JavaScript%20Programming_%20A%20Brain-Friendly%20Guide-O%E2%80%99Reilly%20Media%20(2014).pdf)
 5. [JavaScript Step by Step](https://ptgmedia.pearsoncmg.com/images/9780735665934/samplepages/9780735665934.pdf)
 6. [JavaScript: The Good Parts](https://andersonguelphjs.github.io/OReilly_JavaScript_The_Good_Parts_May_2008.pdf)
-7. [JavaScript and JQuery: The Missing Manual](https://hashir-akbar.github.io/JavaScript-Books/books/JavaScript-and-JQuery-The-Missing-Manual.pdf)
+7. [JavaScript: The Missing Manual](https://pepa.holla.cz/wp-content/uploads/2016/08/JavaScript-The-Missing-Manual.pdf)
 
 ### Intermediate 📘
 
