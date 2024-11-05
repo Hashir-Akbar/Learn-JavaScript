@@ -32,12 +32,12 @@ These resources are organized to help you follow a structured learning path from
 
 ### Beginner 📖
 
-1. [JavaScript for Absolute Beginners](https://hashir-akbar.github.io/JavaScript-Books/books/JavaScript-for-Absolute-Beginners.pdf)
-2. [JavaScript for Kids: A Playful Introduction to Programming](https://hashir-akbar.github.io/JavaScript-Books/books/JavaScript-for-Kids-A-Playful-Introduction-to-Programming.pdf)
+1. [JavaScript for Absolute Beginners](https://mymyeo.com/wp-content/uploads/2024/05/JavaScript-for-Absolute-Beginner.pdf)
+2. [JavaScript for Kids: A Playful Introduction to Programming](https://www.ips.ac.rs/wp-content/uploads/2017/07/jsfkids.pdf)
 3. [JavaScript For Kids For Dummies](https://hashir-akbar.github.io/JavaScript-Books/books/JavaScript-For-Kids-For-Dummies.pdf)
-4. [Head First JavaScript](https://hashir-akbar.github.io/JavaScript-Books/books/Head-First-JavaScript.pdf)
-5. [JavaScript Step by Step](https://hashir-akbar.github.io/JavaScript-Books/books/JavaScript-Step-by-Step.pdf)
-6. [JavaScript: The Good Parts](https://hashir-akbar.github.io/JavaScript-Books/books/JavaScript-The-Good-Parts.pdf)
+4. [Head First JavaScript](https://aaronyeo.org/books_/JavaScript/Eric%20T.%20Freeman,%20Elisabeth%20Robson%20-%20Head%20First%20JavaScript%20Programming_%20A%20Brain-Friendly%20Guide-O%E2%80%99Reilly%20Media%20(2014).pdf)
+5. [JavaScript Step by Step](https://ptgmedia.pearsoncmg.com/images/9780735665934/samplepages/9780735665934.pdf)
+6. [JavaScript: The Good Parts](https://andersonguelphjs.github.io/OReilly_JavaScript_The_Good_Parts_May_2008.pdf)
 7. [JavaScript and JQuery: The Missing Manual](https://hashir-akbar.github.io/JavaScript-Books/books/JavaScript-and-JQuery-The-Missing-Manual.pdf)
 
 ### Intermediate 📘
