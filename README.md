@@ -12,7 +12,7 @@ Books are listed from beginner-friendly to advanced topics, covering everything 
 
 Feel free to suggest new books or resources by opening a pull request. We aim to make this collection as comprehensive and helpful as possible for JavaScript enthusiasts of all levels.
 
-### Getting Started
+### Getting Started 🚀
 
 To get the most out of this list:
 
@@ -30,7 +30,7 @@ This project was created with the goal of providing a central resource for JavaS
 
 ### Beginner 📖
 
-1. [JavaScript for Absolute Beginners](books/JavaScript-for-Absolute-Beginners.pdf)
+1. [JavaScript for Absolute Beginners](https://hashir-akbar.github.io/JavaScript-Books/books/JavaScript-for-Absolute-Beginners.pdf)
 2. [JavaScript for Kids: A Playful Introduction to Programming](<https://github.com/manjunath5496/JavaScript-Programming-Books/blob/master/javs(4).pdf>)
 3. [JavaScript For Kids For Dummies](<https://github.com/manjunath5496/JavaScript-Programming-Books/blob/master/javs(5).pdf>)
 4. [Head First JavaScript](<https://github.com/manjunath5496/JavaScript-Programming-Books/blob/master/javs(1).pdf>)
