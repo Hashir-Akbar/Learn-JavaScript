@@ -1,12 +1,12 @@
 # JavaScript Books 📚
 
-**JavaScript Books** is an open-source collection of highly recommended JavaScript books for developers at all levels. Each book is chosen for its quality, depth, and ability to strengthen your JavaScript programming skills.
+List of **JavaScript Books** highly recommended for developers at all levels. Each book is chosen for its quality to strengthen your JavaScript programming skills.
 
 ---
 
 ### 📖 Overview
 
-JavaScript Books is a curated resource designed to guide developers in building a solid foundation and advancing their JavaScript expertise. This list includes books spanning from beginner fundamentals to expert-level insights, covering all facets of JavaScript development.
+JavaScript Books is a resource designed to guide developers in building a solid foundation and advancing their JavaScript expertise. This list includes books from beginner fundamentals to expert-level insights.
 
 ---
 
