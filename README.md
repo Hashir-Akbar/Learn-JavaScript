@@ -6,7 +6,7 @@ List of **JavaScript Books** highly recommended for developers at all levels. Ea
 
 ### 📖 Overview
 
-JavaScript Books is a resource designed to guide developers in building a solid foundation and advancing their JavaScript expertise. This list includes books from beginner fundamentals to expert-level insights.
+JavaScript Books is a resource designed to guide developers in building a solid foundation and advancing their JavaScript expertise. This list includes books from beginner fundamentals to expert-level.
 
 ---
 
