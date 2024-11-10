@@ -25,6 +25,7 @@ Each section is organized to help you follow a structured learning path from beg
 ### 📚 Learn JavaScript Collection
 
 #### Beginner
+- **[Beginner’s Guide: How to learn JavaScript](https://www.freecodecamp.org/news/how-to-learn-javascript-effectively/)** - FreeCodeCamp
 - **[JavaScript for Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)** - Microsoft
 - **[JavaScript For Cats](http://jsforcats.com)** - Maxwell Ogden (HTML)
 - **[Eloquent JavaScript 3rd edition](http://eloquentjavascript.net)** - Marijn Haverbeke (HTML, PDF, EPUB, MOBI) (CC BY-NC)
