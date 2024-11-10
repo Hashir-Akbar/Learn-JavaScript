@@ -27,7 +27,13 @@ Each section is organized to help you follow a structured learning path from beg
 #### Beginner
 - **[Beginner’s Guide: How to learn JavaScript](https://www.freecodecamp.org/news/how-to-learn-javascript-effectively/)** - Article
 - **[Weird History of JavaScript](https://dev.to/codediodeio/the-weird-history-of-javascript-2bnb)** - Article
-- **[JavaScript for Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)** - Microsoft
+- **[You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)** - Repository
+- **[JavaScript Crash Course for Beginners](https://www.youtube.com/watch?v=hdI2bqOjy3c&t=2s)** - Video
+- **[JavaScript Hoisting](https://www.youtube.com/watch?v=EvfRXyKa_GI)** - Video
+- **[JS Type Casting](https://www.youtube.com/watch?v=EvfRXyKa_GI)** - Video
+- **[JavaScript Data Types](https://www.codeguage.com/courses/js/data-types)** - Article
+- **[JavaScript Prototypal inheritance](https://javascript.info/prototype-inheritance)** - Article
+- **[JS Arrays](https://www.youtube.com/watch?v=XYq9QpgAx8g)** - Videos
 - **[JavaScript For Cats](http://jsforcats.com)** - Maxwell Ogden (HTML)
 - **[Eloquent JavaScript 3rd edition](http://eloquentjavascript.net)** - Marijn Haverbeke (HTML, PDF, EPUB, MOBI) (CC BY-NC)
 - **[The JavaScript Beginner's Handbook](https://flaviocopes.com/page/javascript-handbook/)** - Flavio Copes (PDF, EPUB, Kindle)
