@@ -35,6 +35,7 @@ Each section is organized to help you follow a structured learning path from beg
 - **[JavaScript Prototypal inheritance](https://javascript.info/prototype-inheritance)** - Article
 - **[JS Arrays](https://www.youtube.com/watch?v=XYq9QpgAx8g)** - Videos
 - **[JavaScript For Cats](http://jsforcats.com)** - Maxwell Ogden (HTML)
+- **[Javascript ‘This’. Who Is This?](https://medium.com/swlh/javascript-this-ac28f8e0f65d)** Article
 - **[Eloquent JavaScript 3rd edition](http://eloquentjavascript.net)** - Marijn Haverbeke (HTML, PDF, EPUB, MOBI) (CC BY-NC)
 - **[The JavaScript Beginner's Handbook](https://flaviocopes.com/page/javascript-handbook/)** - Flavio Copes (PDF, EPUB, Kindle)
 - **[JavaScript Notes for Professionals](https://goalkicker.com/JavaScriptBook/)** - Compiled from StackOverflow documentation (PDF)
