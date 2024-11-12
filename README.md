@@ -4,24 +4,6 @@ List of **JavaScript Resources** highly recommended for developers at all levels
 
 ---
 
-### 📖 Overview
-
-Learn JavaScript is a resource designed to guide developers in building a solid foundation and advancing their JavaScript expertise. This list includes from beginner fundamentals to expert-level.
-
----
-
-### 🚀 Getting Started
-
-To maximize your learning experience:
-
-1. **Beginner**: Start with introductory if you're new to JavaScript.
-2. **Intermediate**: Progress to more complex topics as your skills grow.
-3. **Advanced**: Dive into specialized and complex topics for in-depth mastery.
-
-Each section is organized to help you follow a structured learning path from beginner to advanced levels.
-
----
-
 ### 📚 Learn JavaScript Collection
 
 #### Beginner
@@ -64,15 +46,15 @@ Each section is organized to help you follow a structured learning path from beg
 
 ---
 
-### 🤝 Contributing
-
-Feel free to suggest resources by opening a pull request. We aim to make this collection as comprehensive and helpful as possible for JavaScript enthusiasts of all levels.
-
----
-
 ### 🎯 Mission
 
 This project was created with the goal of providing a central resource for JavaScript learners and professionals alike. By gathering high-quality literature, we hope to simplify the journey of learning JavaScript and make it accessible to a broader audience.
+
+---
+
+### 🤝 Contributing
+
+Feel free to suggest resources by opening a pull request. We aim to make this collection as comprehensive and helpful as possible for JavaScript enthusiasts of all levels.
 
 ---
 
