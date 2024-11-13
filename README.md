@@ -1,6 +1,6 @@
 # Learn JavaScript 📚
 
-List of **JavaScript Resources** highly recommended for developers at all levels. Each book is chosen for its quality to strengthen your JavaScript programming skills.
+List of **JavaScript Resources** highly recommended for developers at all levels. Each resource is chosen for its quality to strengthen your JavaScript programming skills.
 
 ---
 
