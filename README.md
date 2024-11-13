@@ -6,15 +6,40 @@ List of **JavaScript Resources** highly recommended for developers at all levels
 
 ### 📚 Learn JavaScript Collection
 
-#### Beginner
+#### Intro To JavaSript
+
 - **[Beginner’s Guide: How to learn JavaScript](https://www.freecodecamp.org/news/how-to-learn-javascript-effectively/)** - Article
 - **[Weird History of JavaScript](https://dev.to/codediodeio/the-weird-history-of-javascript-2bnb)** - Article
-- **[You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)** - Repository
 - **[JavaScript Crash Course for Beginners](https://www.youtube.com/watch?v=hdI2bqOjy3c&t=2s)** - Video
+- **[Learn JavaScript - Full Course for Beginners](https://www.youtube.com/watch?v=PkZNo7MFNFg)** - Video
+- **[Build a Netflix Landing Page Clone with HTML, CSS & JS](https://www.youtube.com/watch?v=P7t13SGytRk&t=22s)** - Video
+- **[Brief History of JavaScript](https://roadmap.sh/guides/history-of-javascript)** - Article
+
+#### All About Variables
+
+- **[JavaScript Variables](https://javascript.info/variables)** - Article
 - **[JavaScript Hoisting](https://www.youtube.com/watch?v=EvfRXyKa_GI)** - Video
-- **[JS Type Casting](https://www.youtube.com/watch?v=EvfRXyKa_GI)** - Video
+- **[JavaScript Variable Naming Tips](https://www.codeguage.com/courses/js/variables#Tips_for_naming_variables)** - Article
+- **[Variable Scopes](https://www.youtube.com/watch?v=_E96W6ivHng)** - Video
+- **[JavaScript Scopes](https://www.w3schools.com/js/js_scope.asp)** - Article
+
+#### JS Data Types
+
 - **[JavaScript Data Types](https://www.codeguage.com/courses/js/data-types)** - Article
+- **[JS Type Casting](https://www.youtube.com/watch?v=EvfRXyKa_GI)** - Video
+- **[You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)** - Repository | Book
+
 - **[JavaScript Prototypal inheritance](https://javascript.info/prototype-inheritance)** - Article
+
+#### Data Structures
+
+- **[Introduction to the Stack Data Structure](https://www.youtube.com/watch?v=4F-BnR2XwqU)** - Video
+- **[Introduction to the Queue Data Structure](https://www.youtube.com/watch?v=GRA_3Ppl2ZI)** - Video
+- **[Intro to Recursion: Anatomy of a Recursive Solution](https://www.youtube.com/watch?v=yBWlPte6FhA)** - Video
+- **[Binary Tree Algorithms for Technical Interviews - Full Course](https://www.youtube.com/watch?v=fAAZixBzIAI)** - Video
+- **[Graph Algorithms for Technical Interviews - Full Course](https://www.youtube.com/watch?v=tWVWeAqZ0WU)** - Video
+- **[Dynamic Programming - Learn to Solve Algorithmic Problems & Coding Challenges](https://www.youtube.com/watch?v=oBt53YbR9Kk)** - Video
+
 - **[JS Arrays](https://www.youtube.com/watch?v=XYq9QpgAx8g)** - Videos
 - **[JavaScript For Cats](http://jsforcats.com)** - Maxwell Ogden (HTML)
 - **[Javascript ‘This’. Who Is This?](https://medium.com/swlh/javascript-this-ac28f8e0f65d)** Article
@@ -24,6 +49,7 @@ List of **JavaScript Resources** highly recommended for developers at all levels
 - **[Basic JavaScript for the Impatient Programmer](http://www.2ality.com/2013/06/basic-javascript.html)** - Axel Rauschmayer (HTML)
 
 #### Intermediate
+
 - **[JavaScript Allongé](https://leanpub.com/javascript-allonge/read)** - Reginald Braithwaite (HTML)
 - **[You Don’t Know JS](https://github.com/getify/You-Dont-Know-JS)** - Kyle Simpson (HTML, PDF, EPUB, MOBI)
 - **[Functional-Light JavaScript](https://github.com/getify/Functional-Light-JS)** - Kyle Simpson (HTML)
@@ -33,7 +59,8 @@ List of **JavaScript Resources** highly recommended for developers at all levels
 - **[Exploring ES6](http://exploringjs.com/es6/)** - Axel Rauschmayer (HTML)
 
 #### Advanced
-- **[JavaScript Spessore](https://web.archive.org/web/20160325064800/https://leanpub.com/javascript-spessore/read)** - Reginald Braithwaite (HTML) *(Archived)*
+
+- **[JavaScript Spessore](https://web.archive.org/web/20160325064800/https://leanpub.com/javascript-spessore/read)** - Reginald Braithwaite (HTML) _(Archived)_
 - **[Designing Scalable JavaScript Applications](https://www.manning.com/books/designing-scalable-javascript-applications)** - Emmit Scott (PDF + Livebook)
 - **[JavaScript for Data Science](https://third-bit.com/js4ds/)** - Maya Gans, Toby Hodges, Greg Wilson (HTML)
 - **[Robust Client-Side JavaScript](https://molily.de/robust-javascript/)** - Matthias Schäfer (HTML, EPUB)
