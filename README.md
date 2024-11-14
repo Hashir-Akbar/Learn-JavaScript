@@ -4,9 +4,9 @@ List of **JavaScript Resources** highly recommended for developers at all levels
 
 ---
 
-### 📚 Learn JavaScript Collection
+## 📚 Learn JavaScript Collection
 
-#### Intro To JavaSript
+### Intro To JavaSript
 
 - **[Beginner’s Guide: How to learn JavaScript](https://www.freecodecamp.org/news/how-to-learn-javascript-effectively/)** - Article
 - **[Weird History of JavaScript](https://dev.to/codediodeio/the-weird-history-of-javascript-2bnb)** - Article
@@ -15,7 +15,7 @@ List of **JavaScript Resources** highly recommended for developers at all levels
 - **[Build a Netflix Landing Page Clone with HTML, CSS & JS](https://www.youtube.com/watch?v=P7t13SGytRk&t=22s)** - Video
 - **[Brief History of JavaScript](https://roadmap.sh/guides/history-of-javascript)** - Article
 
-#### All About Variables
+### All About Variables
 
 - **[JavaScript Variables](https://javascript.info/variables)** - Article
 - **[JavaScript Hoisting](https://www.youtube.com/watch?v=EvfRXyKa_GI)** - Video
@@ -23,13 +23,12 @@ List of **JavaScript Resources** highly recommended for developers at all levels
 - **[Variable Scopes](https://www.youtube.com/watch?v=_E96W6ivHng)** - Video
 - **[JavaScript Scopes](https://www.w3schools.com/js/js_scope.asp)** - Article
 
-#### JS Data Types
+### JS Data Types
 
 - **[JavaScript Data Types](https://www.codeguage.com/courses/js/data-types)** - Article
-- **[JS Type Casting](https://www.youtube.com/watch?v=EvfRXyKa_GI)** - Video
-- **[You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)** - Repository | Book
+- **[JavaScript data types and data structures](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures)** - Article
+- **[JS data types in detail](https://javascript.info/types)** - Article
 
-- **[JavaScript Prototypal inheritance](https://javascript.info/prototype-inheritance)** - Article
 
 #### Data Structures
 
