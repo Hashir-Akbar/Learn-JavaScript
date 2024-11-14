@@ -30,6 +30,13 @@ List of **JavaScript Resources** highly recommended for developers at all levels
 - **[JS data types in detail](https://javascript.info/types)** - Article
 
 
+### JS Type Casting
+
+- **[Type Conversions in detail](https://javascript.info/type-conversions)** - Article
+- **[JS Type Conversion & Coercion](https://medium.com/@mila.mirovic98/javascript-fundamentals-type-conversion-coercion-8bbba10c9925)** - Article
+- **[JS Type Conversion (Explicit & Implicit)](https://www.freecodecamp.org/news/coercion-and-type-conversion-in-javascript/)** - Article
+
+
 #### Data Structures
 
 - **[Introduction to the Stack Data Structure](https://www.youtube.com/watch?v=4F-BnR2XwqU)** - Video
