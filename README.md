@@ -29,7 +29,6 @@ List of **JavaScript Resources** highly recommended for developers at all levels
 - **[JavaScript data types and data structures](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures)** - Article
 - **[JS data types in detail](https://javascript.info/types)** - Article
 
-
 ### JS Type Casting
 
 - **[Type Conversions in detail](https://javascript.info/type-conversions)** - Article
@@ -37,7 +36,7 @@ List of **JavaScript Resources** highly recommended for developers at all levels
 - **[JS Type Conversion (Explicit & Implicit)](https://www.freecodecamp.org/news/coercion-and-type-conversion-in-javascript/)** - Article
 
 
-#### Data Structures
+### Data Structures
 
 - **[Introduction to the Stack Data Structure](https://www.youtube.com/watch?v=4F-BnR2XwqU)** - Video
 - **[Introduction to the Queue Data Structure](https://www.youtube.com/watch?v=GRA_3Ppl2ZI)** - Video
@@ -46,13 +45,6 @@ List of **JavaScript Resources** highly recommended for developers at all levels
 - **[Graph Algorithms for Technical Interviews - Full Course](https://www.youtube.com/watch?v=tWVWeAqZ0WU)** - Video
 - **[Dynamic Programming - Learn to Solve Algorithmic Problems & Coding Challenges](https://www.youtube.com/watch?v=oBt53YbR9Kk)** - Video
 
-- **[JS Arrays](https://www.youtube.com/watch?v=XYq9QpgAx8g)** - Videos
-- **[JavaScript For Cats](http://jsforcats.com)** - Maxwell Ogden (HTML)
-- **[Javascript ‘This’. Who Is This?](https://medium.com/swlh/javascript-this-ac28f8e0f65d)** Article
-- **[Eloquent JavaScript 3rd edition](http://eloquentjavascript.net)** - Marijn Haverbeke (HTML, PDF, EPUB, MOBI) (CC BY-NC)
-- **[The JavaScript Beginner's Handbook](https://flaviocopes.com/page/javascript-handbook/)** - Flavio Copes (PDF, EPUB, Kindle)
-- **[JavaScript Notes for Professionals](https://goalkicker.com/JavaScriptBook/)** - Compiled from StackOverflow documentation (PDF)
-- **[Basic JavaScript for the Impatient Programmer](http://www.2ality.com/2013/06/basic-javascript.html)** - Axel Rauschmayer (HTML)
 
 #### Intermediate
 
