@@ -4,7 +4,7 @@ List of **JavaScript Resources** highly recommended for developers at all levels
 
 ---
 
-## 📚 Learn JavaScript Collection
+## 📚 Learn JavaScript in Detail
 
 ### Intro To JavaSript
 
