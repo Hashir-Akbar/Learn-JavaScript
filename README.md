@@ -46,15 +46,11 @@ List of **JavaScript Resources** highly recommended for developers at all levels
 - **[Dynamic Programming - Learn to Solve Algorithmic Problems & Coding Challenges](https://www.youtube.com/watch?v=oBt53YbR9Kk)** - Video
 
 
-#### Intermediate
+#### JS Equality Comparisons
 
-- **[JavaScript Allongé](https://leanpub.com/javascript-allonge/read)** - Reginald Braithwaite (HTML)
-- **[You Don’t Know JS](https://github.com/getify/You-Dont-Know-JS)** - Kyle Simpson (HTML, PDF, EPUB, MOBI)
-- **[Functional-Light JavaScript](https://github.com/getify/Functional-Light-JS)** - Kyle Simpson (HTML)
-- **[JavaScript Patterns Collection](http://shichuan.github.io/javascript-patterns/)** - Shi Chuan (HTML)
-- **[JavaScript for Impatient Programmers (ES2022 edition)](https://exploringjs.com/impatient-js/)** - Axel Rauschmayer (HTML)
-- **[Clean Code JavaScript](https://github.com/ryanmcdermott/clean-code-javascript)** - Ryan McDermott (HTML)
-- **[Exploring ES6](http://exploringjs.com/es6/)** - Axel Rauschmayer (HTML)
+- **[JavaScript Comparisons](https://www.w3schools.com/js/js_comparisons.asp)** - Article
+- **[JavaScript Equality Operators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators#equality_operators)** - Article
+
 
 #### Advanced
 
