@@ -35,7 +35,6 @@ List of **JavaScript Resources** highly recommended for developers at all levels
 - **[JS Type Conversion & Coercion](https://medium.com/@mila.mirovic98/javascript-fundamentals-type-conversion-coercion-8bbba10c9925)** - Article
 - **[JS Type Conversion (Explicit & Implicit)](https://www.freecodecamp.org/news/coercion-and-type-conversion-in-javascript/)** - Article
 
-
 ### Data Structures
 
 - **[Introduction to the Stack Data Structure](https://www.youtube.com/watch?v=4F-BnR2XwqU)** - Video
@@ -45,17 +44,39 @@ List of **JavaScript Resources** highly recommended for developers at all levels
 - **[Graph Algorithms for Technical Interviews - Full Course](https://www.youtube.com/watch?v=tWVWeAqZ0WU)** - Video
 - **[Dynamic Programming - Learn to Solve Algorithmic Problems & Coding Challenges](https://www.youtube.com/watch?v=oBt53YbR9Kk)** - Video
 
-
 ### JS Equality Comparisons
 
 - **[JavaScript Comparisons](https://www.w3schools.com/js/js_comparisons.asp)** - Article
 - **[JavaScript Equality Operators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators#equality_operators)** - Article
 
-
 ### JS Loops and Iterations
 
 - **[Loops and iteration](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Loops_and_iteration)** - Article
 
+### Control Flow
+
+- **[JS Control Flow](https://developer.mozilla.org/en-US/docs/Glossary/Control_flow)** - Article
+
+### Expressions and Operators
+
+- **[JS Expressions and Operators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_operators)** - Article
+
+### Expressions and Operators
+
+- **[JavaScript Functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions)** - Article
+- **[JavaScript Functions in Detail](https://www.codeguage.com/courses/js/functions-basics)** - Article
+
+### DOM APIs
+
+- **[DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model)** - Article
+- **[Web Api's](https://www.w3schools.com/js/js_api_intro.asp)** - Article
+
+### Strict Mode
+
+- **[Strict mode in JavaScript](https://javascript.info/strict-mode)** - Article
+- **[Strict mode in detail](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Strict_mode)** - Article
+
+### This Keyword
 
 #### Advanced
 
