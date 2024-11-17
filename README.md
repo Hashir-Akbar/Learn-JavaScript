@@ -46,10 +46,15 @@ List of **JavaScript Resources** highly recommended for developers at all levels
 - **[Dynamic Programming - Learn to Solve Algorithmic Problems & Coding Challenges](https://www.youtube.com/watch?v=oBt53YbR9Kk)** - Video
 
 
-#### JS Equality Comparisons
+### JS Equality Comparisons
 
 - **[JavaScript Comparisons](https://www.w3schools.com/js/js_comparisons.asp)** - Article
 - **[JavaScript Equality Operators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators#equality_operators)** - Article
+
+
+### JS Loops and Iterations
+
+- **[Loops and iteration](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Loops_and_iteration)** - Article
 
 
 #### Advanced
