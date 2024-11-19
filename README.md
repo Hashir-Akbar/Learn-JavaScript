@@ -78,6 +78,11 @@ List of **JavaScript Resources** highly recommended for developers at all levels
 
 ### This Keyword
 
+
+- **[The JavaScript this Keyword](https://www.w3schools.com/js/js_this.asp)** - Article
+- **[This Keyword](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/this)** - Article
+
+
 #### Advanced
 
 - **[JavaScript Spessore](https://web.archive.org/web/20160325064800/https://leanpub.com/javascript-spessore/read)** - Reginald Braithwaite (HTML) _(Archived)_
