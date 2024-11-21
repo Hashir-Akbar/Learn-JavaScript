@@ -82,6 +82,10 @@ List of **JavaScript Resources** highly recommended for developers at all levels
 - **[The JavaScript this Keyword](https://www.w3schools.com/js/js_this.asp)** - Article
 - **[This Keyword](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/this)** - Article
 
+### Asynchronous JavaScript
+
+- **[What The Hack is Event Loop and Asynchronous JavaScript - JSConf](https://www.youtube.com/watch?v=8aGhZQkoFbQ)** - Video
+- **[Asynchronous JavaScript - JavaScript Visualized](https://www.youtube.com/watch?v=eiC58R16hb8)** - Video
 
 #### Advanced
 
