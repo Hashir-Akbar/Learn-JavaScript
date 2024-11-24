@@ -84,6 +84,7 @@ List of **JavaScript Resources** highly recommended for developers at all levels
 
 ### Asynchronous JavaScript
 
+- **[Asynchronous JavaScript - MDN](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Introducing)** - Article
 - **[What The Hack is Event Loop and Asynchronous JavaScript - JSConf](https://www.youtube.com/watch?v=8aGhZQkoFbQ)** - Video
 - **[Asynchronous JavaScript - JavaScript Visualized](https://www.youtube.com/watch?v=eiC58R16hb8)** - Video
 
