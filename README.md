@@ -88,6 +88,16 @@ List of **JavaScript Resources** highly recommended for developers at all levels
 - **[What The Hack is Event Loop and Asynchronous JavaScript - JSConf](https://www.youtube.com/watch?v=8aGhZQkoFbQ)** - Video
 - **[Asynchronous JavaScript - JavaScript Visualized](https://www.youtube.com/watch?v=eiC58R16hb8)** - Video
 
+### Working with APIs
+
+
+- **[Fetching data from the server](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Fetching_data)** - Article
+- **[XMLHttpRequest](https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest)** - Article
+- **[Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)** - Article
+- **[Is fetch API better than XMLHTTPRequest](https://medium.com/beginners-guide-to-mobile-web-development/the-fetch-api-2c962591f5c)** - Article
+- **[Ajax Battle: XMLHttpRequest vs the Fetch API](https://blog.openreplay.com/ajax-battle-xmlhttprequest-vs-fetch/)** - Article
+
+
 #### Advanced
 
 - **[JavaScript Spessore](https://web.archive.org/web/20160325064800/https://leanpub.com/javascript-spessore/read)** - Reginald Braithwaite (HTML) _(Archived)_
