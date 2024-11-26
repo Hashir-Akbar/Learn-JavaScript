@@ -78,7 +78,6 @@ List of **JavaScript Resources** highly recommended for developers at all levels
 
 ### This Keyword
 
-
 - **[The JavaScript this Keyword](https://www.w3schools.com/js/js_this.asp)** - Article
 - **[This Keyword](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/this)** - Article
 
@@ -90,12 +89,35 @@ List of **JavaScript Resources** highly recommended for developers at all levels
 
 ### Working with APIs
 
-
 - **[Fetching data from the server](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Fetching_data)** - Article
 - **[XMLHttpRequest](https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest)** - Article
 - **[Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)** - Article
 - **[Is fetch API better than XMLHTTPRequest](https://medium.com/beginners-guide-to-mobile-web-development/the-fetch-api-2c962591f5c)** - Article
 - **[Ajax Battle: XMLHttpRequest vs the Fetch API](https://blog.openreplay.com/ajax-battle-xmlhttprequest-vs-fetch/)** - Article
+
+### Classes
+
+- **[Classes in JavaScript](https://javascript.info/classes)** - Article
+- **[JavaScript Classes](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes)** - Article
+
+### Javascript Iterators and Generators
+
+- **[Introduction to Iterators - Advanced JavaScript](https://www.codeguage.com/courses/advanced-js/iteration-introduction)** - Article
+- **[A Detailed Discussion on Iterators - Advanced JavaScript](https://www.codeguage.com/courses/advanced-js/iteration-iterators)** - Article
+- **[What Exactly Are Generators? - Advanced JavaScript](https://www.codeguage.com/courses/advanced-js/iteration-generators)** - Article
+
+
+### Modules
+
+- **[Modules, introduction](https://javascript.info/modules-intro)** - Article
+- **[Export and Import](https://javascript.info/import-export)** - Article
+- **[Dynamic imports](https://javascript.info/modules-dynamic-imports)** - Article
+
+
+### Memory Management
+
+- **[JavaScript Garbage Collection](https://javascript.info/garbage-collection)** - Article
+- **[Memory Management in JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Memory_management)** - Article
 
 
 #### Advanced
