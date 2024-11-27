@@ -35,6 +35,37 @@ List of **JavaScript Resources** highly recommended for developers at all levels
 - **[JS Type Conversion & Coercion](https://medium.com/@mila.mirovic98/javascript-fundamentals-type-conversion-coercion-8bbba10c9925)** - Article
 - **[JS Type Conversion (Explicit & Implicit)](https://www.freecodecamp.org/news/coercion-and-type-conversion-in-javascript/)** - Article
 
+### Expressions and Operators
+
+- **[JS Expressions and Operators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_operators)** - Article
+
+
+### JS Equality Comparisons
+
+- **[JavaScript Comparisons](https://www.w3schools.com/js/js_comparisons.asp)** - Article
+- **[JavaScript Equality Operators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators#equality_operators)** - Article
+
+
+### Control Flow
+
+- **[JS Control Flow](https://developer.mozilla.org/en-US/docs/Glossary/Control_flow)** - Article
+
+### JS Loops and Iterations
+
+- **[Loops and iteration](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Loops_and_iteration)** - Article
+
+
+### JS Functions
+
+- **[JavaScript Functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions)** - Article
+- **[JavaScript Functions in Detail](https://www.codeguage.com/courses/js/functions-basics)** - Article
+
+
+### This Keyword
+
+- **[The JavaScript this Keyword](https://www.w3schools.com/js/js_this.asp)** - Article
+- **[This Keyword](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/this)** - Article
+
 ### Data Structures
 
 - **[Introduction to the Stack Data Structure](https://www.youtube.com/watch?v=4F-BnR2XwqU)** - Video
@@ -44,42 +75,23 @@ List of **JavaScript Resources** highly recommended for developers at all levels
 - **[Graph Algorithms for Technical Interviews - Full Course](https://www.youtube.com/watch?v=tWVWeAqZ0WU)** - Video
 - **[Dynamic Programming - Learn to Solve Algorithmic Problems & Coding Challenges](https://www.youtube.com/watch?v=oBt53YbR9Kk)** - Video
 
-### JS Equality Comparisons
 
-- **[JavaScript Comparisons](https://www.w3schools.com/js/js_comparisons.asp)** - Article
-- **[JavaScript Equality Operators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators#equality_operators)** - Article
 
-### JS Loops and Iterations
 
-- **[Loops and iteration](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Loops_and_iteration)** - Article
-
-### Control Flow
-
-- **[JS Control Flow](https://developer.mozilla.org/en-US/docs/Glossary/Control_flow)** - Article
-
-### Expressions and Operators
-
-- **[JS Expressions and Operators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_operators)** - Article
-
-### Expressions and Operators
-
-- **[JavaScript Functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions)** - Article
-- **[JavaScript Functions in Detail](https://www.codeguage.com/courses/js/functions-basics)** - Article
 
 ### DOM APIs
 
 - **[DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model)** - Article
 - **[Web Api's](https://www.w3schools.com/js/js_api_intro.asp)** - Article
 
+
+
 ### Strict Mode
 
 - **[Strict mode in JavaScript](https://javascript.info/strict-mode)** - Article
 - **[Strict mode in detail](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Strict_mode)** - Article
 
-### This Keyword
 
-- **[The JavaScript this Keyword](https://www.w3schools.com/js/js_this.asp)** - Article
-- **[This Keyword](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/this)** - Article
 
 ### Asynchronous JavaScript
 
@@ -118,20 +130,6 @@ List of **JavaScript Resources** highly recommended for developers at all levels
 
 - **[JavaScript Garbage Collection](https://javascript.info/garbage-collection)** - Article
 - **[Memory Management in JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Memory_management)** - Article
-
-
-#### Advanced
-
-- **[JavaScript Spessore](https://web.archive.org/web/20160325064800/https://leanpub.com/javascript-spessore/read)** - Reginald Braithwaite (HTML) _(Archived)_
-- **[Designing Scalable JavaScript Applications](https://www.manning.com/books/designing-scalable-javascript-applications)** - Emmit Scott (PDF + Livebook)
-- **[JavaScript for Data Science](https://third-bit.com/js4ds/)** - Maya Gans, Toby Hodges, Greg Wilson (HTML)
-- **[Robust Client-Side JavaScript](https://molily.de/robust-javascript/)** - Matthias Schäfer (HTML, EPUB)
-- **[Single Page Apps in Depth](http://singlepageappbook.com)** - Mixu (HTML)
-- **[Professor Frisby’s Mostly Adequate Guide to Functional Programming](https://mostly-adequate.gitbooks.io/mostly-adequate-guide/content/)** - Brian Lonsdorf (HTML)
-- **[Speaking JavaScript](https://exploringjs.com/es5/)** - Axel Rauschmayer
-- **[Standard ECMA-262 ECMAScript 2016 Language Specification](https://www.ecma-international.org/publications/standards/Ecma-262.htm)** - Ecma International (HTML, PDF)
-- **[Patterns For Large-Scale JavaScript Application Architecture](http://addyosmani.com/largescalejavascript/)** - Addy Osmani (HTML)
-- **[JavaScript the Right Way](https://github.com/braziljs/js-the-right-way)** - William Oliveira, Allan Esquina (HTML)
 
 ---
 
