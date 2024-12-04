@@ -38,6 +38,8 @@ List of **JavaScript Resources** highly recommended for developers at all levels
 ### Expressions and Operators
 
 - **[JS Expressions and Operators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_operators)** - Article
+- **[Basic operators, maths](https://javascript.info/operators)** - Article
+- **[Comparisons](https://javascript.info/comparison)** - Article
 
 
 ### JS Equality Comparisons
