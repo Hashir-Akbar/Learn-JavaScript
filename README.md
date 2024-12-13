@@ -67,6 +67,7 @@ List of **JavaScript Resources** highly recommended for developers at all levels
 
 - **[The JavaScript this Keyword](https://www.w3schools.com/js/js_this.asp)** - Article
 - **[This Keyword](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/this)** - Article
+- **[JS This Keyword](https://youtu.be/cwChC4BQF0Q?si=yz-HTO7pHDI9B0XW)** - Video
 
 ### Data Structures
 
