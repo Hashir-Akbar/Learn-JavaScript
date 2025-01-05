@@ -45,34 +45,42 @@ A carefully curated list of **JavaScript resources** for developers at all level
 
 ### **Expressions and Operators**
 
-- **[JS Expressions and Operators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_operators)** - Article
+- [JavaScript Expressions and Operators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_operators) - Article  
 
+---
 
-### JS Equality Comparisons
+### **JavaScript Equality Comparisons**
 
-- **[JavaScript Comparisons](https://www.w3schools.com/js/js_comparisons.asp)** - Article
-- **[JavaScript Equality Operators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators#equality_operators)** - Article
+- [JavaScript Comparisons](https://www.w3schools.com/js/js_comparisons.asp) - Article  
+- [Equality Operators in JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators#equality_operators) - Article  
 
+---
 
-### Control Flow
+### **Control Flow**
 
-- **[JS Control Flow](https://developer.mozilla.org/en-US/docs/Glossary/Control_flow)** - Article
+- [JavaScript Control Flow](https://developer.mozilla.org/en-US/docs/Glossary/Control_flow) - Article  
+
+---
 
 ### **JavaScript Loops and Iterations**
 
-- **[Loops and iteration](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Loops_and_iteration)** - Article
+- [Loops and Iteration](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Loops_and_iteration) - Article  
 
+---
 
-### JS Functions
+### **JavaScript Functions**
 
-- **[JavaScript Functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions)** - Article
-- **[JavaScript Functions in Detail](https://www.codeguage.com/courses/js/functions-basics)** - Article
+- [Functions in JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions) - Article  
+- [JavaScript Functions in Detail](https://www.codeguage.com/courses/js/functions-basics) - Article  
 
+---
 
-### This Keyword
+### **The `this` Keyword**
 
-- **[The JavaScript this Keyword](https://www.w3schools.com/js/js_this.asp)** - Article
-- **[This Keyword](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/this)** - Article
+- [The JavaScript `this` Keyword](https://www.w3schools.com/js/js_this.asp) - Article  
+- [Understanding `this` in JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/this) - Article  
+
+---
 
 ### **Data Structures**
 
