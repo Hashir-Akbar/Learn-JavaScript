@@ -1,6 +1,6 @@
 # **Learn JavaScript 📚**
 
-A carefully curated list of **JavaScript resources** for developers at all levels. Whether you're just starting out or looking to deepen your expertise, these high-quality resources will help strengthen your JavaScript programming skills.
+Learning JavaScript is quite troublesome for beginners, especially students like me who learns from youtube unsequence based and moreover, after completing a playlist or course we get to know that this or that topic is left. We know about how language works new features are proposed and then new things daily implement. But I want to make a list for the all Basic Concepts that is common in all javascript developers and common concepts in language that are used in interviews and those concepts should be clear if we have to go for react for frontend or node js for backend, If these concepts are cleared then you are good to go forward but always remember learning never stops most importantly in languages that evolve time to time.
 
 ---
 
@@ -8,150 +8,150 @@ A carefully curated list of **JavaScript resources** for developers at all level
 
 ### **Introduction to JavaScript**
 
-- [Beginner’s Guide: How to Learn JavaScript](https://www.freecodecamp.org/news/how-to-learn-javascript-effectively/) - Article  
-- [The Weird History of JavaScript](https://dev.to/codediodeio/the-weird-history-of-javascript-2bnb) - Article  
-- [JavaScript Crash Course for Beginners](https://www.youtube.com/watch?v=hdI2bqOjy3c&t=2s) - Video  
-- [Learn JavaScript - Full Course for Beginners](https://www.youtube.com/watch?v=PkZNo7MFNFg) - Video  
-- [Build a Netflix Landing Page Clone (HTML, CSS & JS)](https://www.youtube.com/watch?v=P7t13SGytRk&t=22s) - Video  
-- [A Brief History of JavaScript](https://roadmap.sh/guides/history-of-javascript) - Article  
+- [Beginner’s Guide: How to Learn JavaScript](https://www.freecodecamp.org/news/how-to-learn-javascript-effectively/) - Article
+- [The Weird History of JavaScript](https://dev.to/codediodeio/the-weird-history-of-javascript-2bnb) - Article
+- [JavaScript Crash Course for Beginners](https://www.youtube.com/watch?v=hdI2bqOjy3c&t=2s) - Video
+- [Learn JavaScript - Full Course for Beginners](https://www.youtube.com/watch?v=PkZNo7MFNFg) - Video
+- [Build a Netflix Landing Page Clone (HTML, CSS & JS)](https://www.youtube.com/watch?v=P7t13SGytRk&t=22s) - Video
+- [A Brief History of JavaScript](https://roadmap.sh/guides/history-of-javascript) - Article
 
 ---
 
 ### **JavaScript Variables**
 
-- [JavaScript Variables](https://javascript.info/variables) - Article  
-- [Understanding JavaScript Hoisting](https://www.youtube.com/watch?v=EvfRXyKa_GI) - Video  
-- [Variable Naming Tips](https://www.codeguage.com/courses/js/variables#Tips_for_naming_variables) - Article  
-- [Variable Scopes Explained](https://www.youtube.com/watch?v=_E96W6ivHng) - Video  
-- [Scopes in JavaScript](https://www.w3schools.com/js/js_scope.asp) - Article  
+- [JavaScript Variables](https://javascript.info/variables) - Article
+- [Understanding JavaScript Hoisting](https://www.youtube.com/watch?v=EvfRXyKa_GI) - Video
+- [Variable Naming Tips](https://www.codeguage.com/courses/js/variables#Tips_for_naming_variables) - Article
+- [Variable Scopes Explained](https://www.youtube.com/watch?v=_E96W6ivHng) - Video
+- [Scopes in JavaScript](https://www.w3schools.com/js/js_scope.asp) - Article
 
 ---
 
 ### **JavaScript Data Types**
 
-- [JavaScript Data Types](https://www.codeguage.com/courses/js/data-types) - Article  
-- [JavaScript Data Types and Data Structures](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures) - Article  
-- [JS Data Types in Detail](https://javascript.info/types) - Article  
+- [JavaScript Data Types](https://www.codeguage.com/courses/js/data-types) - Article
+- [JavaScript Data Types and Data Structures](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures) - Article
+- [JS Data Types in Detail](https://javascript.info/types) - Article
 
 ---
 
 ### **JavaScript Type Casting**
 
-- [Type Conversions in Detail](https://javascript.info/type-conversions) - Article  
-- [JavaScript Type Conversion & Coercion](https://medium.com/@mila.mirovic98/javascript-fundamentals-type-conversion-coercion-8bbba10c9925) - Article  
-- [JS Type Conversion (Explicit & Implicit)](https://www.freecodecamp.org/news/coercion-and-type-conversion-in-javascript/) - Article  
+- [Type Conversions in Detail](https://javascript.info/type-conversions) - Article
+- [JavaScript Type Conversion & Coercion](https://medium.com/@mila.mirovic98/javascript-fundamentals-type-conversion-coercion-8bbba10c9925) - Article
+- [JS Type Conversion (Explicit & Implicit)](https://www.freecodecamp.org/news/coercion-and-type-conversion-in-javascript/) - Article
 
 ---
 
 ### **Expressions and Operators**
 
-- [JavaScript Expressions and Operators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_operators) - Article  
+- [JavaScript Expressions and Operators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_operators) - Article
 
 ---
 
 ### **JavaScript Equality Comparisons**
 
-- [JavaScript Comparisons](https://www.w3schools.com/js/js_comparisons.asp) - Article  
-- [Equality Operators in JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators#equality_operators) - Article  
+- [JavaScript Comparisons](https://www.w3schools.com/js/js_comparisons.asp) - Article
+- [Equality Operators in JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators#equality_operators) - Article
 
 ---
 
 ### **Control Flow**
 
-- [JavaScript Control Flow](https://developer.mozilla.org/en-US/docs/Glossary/Control_flow) - Article  
+- [JavaScript Control Flow](https://developer.mozilla.org/en-US/docs/Glossary/Control_flow) - Article
 
 ---
 
 ### **JavaScript Loops and Iterations**
 
-- [Loops and Iteration](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Loops_and_iteration) - Article  
+- [Loops and Iteration](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Loops_and_iteration) - Article
 
 ---
 
 ### **JavaScript Functions**
 
-- [Functions in JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions) - Article  
-- [JavaScript Functions in Detail](https://www.codeguage.com/courses/js/functions-basics) - Article  
+- [Functions in JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions) - Article
+- [JavaScript Functions in Detail](https://www.codeguage.com/courses/js/functions-basics) - Article
 
 ---
 
 ### **The `this` Keyword**
 
-- [The JavaScript `this` Keyword](https://www.w3schools.com/js/js_this.asp) - Article  
-- [Understanding `this` in JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/this) - Article  
+- [The JavaScript `this` Keyword](https://www.w3schools.com/js/js_this.asp) - Article
+- [Understanding `this` in JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/this) - Article
 
 ---
 
 ### **Data Structures**
 
-- [Introduction to the Stack Data Structure](https://www.youtube.com/watch?v=4F-BnR2XwqU) - Video  
-- [Introduction to the Queue Data Structure](https://www.youtube.com/watch?v=GRA_3Ppl2ZI) - Video  
-- [Intro to Recursion: Anatomy of a Recursive Solution](https://www.youtube.com/watch?v=yBWlPte6FhA) - Video  
-- [Binary Tree Algorithms for Technical Interviews - Full Course](https://www.youtube.com/watch?v=fAAZixBzIAI) - Video  
-- [Graph Algorithms for Technical Interviews - Full Course](https://www.youtube.com/watch?v=tWVWeAqZ0WU) - Video  
-- [Dynamic Programming - Solve Algorithmic Problems & Coding Challenges](https://www.youtube.com/watch?v=oBt53YbR9Kk) - Video  
+- [Introduction to the Stack Data Structure](https://www.youtube.com/watch?v=4F-BnR2XwqU) - Video
+- [Introduction to the Queue Data Structure](https://www.youtube.com/watch?v=GRA_3Ppl2ZI) - Video
+- [Intro to Recursion: Anatomy of a Recursive Solution](https://www.youtube.com/watch?v=yBWlPte6FhA) - Video
+- [Binary Tree Algorithms for Technical Interviews - Full Course](https://www.youtube.com/watch?v=fAAZixBzIAI) - Video
+- [Graph Algorithms for Technical Interviews - Full Course](https://www.youtube.com/watch?v=tWVWeAqZ0WU) - Video
+- [Dynamic Programming - Solve Algorithmic Problems & Coding Challenges](https://www.youtube.com/watch?v=oBt53YbR9Kk) - Video
 
 ---
 
 ### **DOM APIs**
 
-- [Understanding the DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model) - Article  
-- [Introduction to Web APIs](https://www.w3schools.com/js/js_api_intro.asp) - Article  
+- [Understanding the DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model) - Article
+- [Introduction to Web APIs](https://www.w3schools.com/js/js_api_intro.asp) - Article
 
 ---
 
 ### **Strict Mode**
 
-- [Strict Mode in JavaScript](https://javascript.info/strict-mode) - Article  
-- [Strict Mode in Detail](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Strict_mode) - Article  
+- [Strict Mode in JavaScript](https://javascript.info/strict-mode) - Article
+- [Strict Mode in Detail](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Strict_mode) - Article
 
 ---
 
 ### **Asynchronous JavaScript**
 
-- [Asynchronous JavaScript - MDN](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Introducing) - Article  
-- [Event Loop & Asynchronous JavaScript - JSConf](https://www.youtube.com/watch?v=8aGhZQkoFbQ) - Video  
-- [Visualizing Asynchronous JavaScript](https://www.youtube.com/watch?v=eiC58R16hb8) - Video  
+- [Asynchronous JavaScript - MDN](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Introducing) - Article
+- [Event Loop & Asynchronous JavaScript - JSConf](https://www.youtube.com/watch?v=8aGhZQkoFbQ) - Video
+- [Visualizing Asynchronous JavaScript](https://www.youtube.com/watch?v=eiC58R16hb8) - Video
 
 ---
 
 ### **Working with APIs**
 
-- [Fetching Data from the Server](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Fetching_data) - Article  
-- [XMLHttpRequest](https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest) - Article  
-- [Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API) - Article  
-- [Is Fetch API Better than XMLHttpRequest?](https://medium.com/beginners-guide-to-mobile-web-development/the-fetch-api-2c962591f5c) - Article  
-- [Ajax Battle: XMLHttpRequest vs Fetch API](https://blog.openreplay.com/ajax-battle-xmlhttprequest-vs-fetch/) - Article  
+- [Fetching Data from the Server](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Fetching_data) - Article
+- [XMLHttpRequest](https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest) - Article
+- [Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API) - Article
+- [Is Fetch API Better than XMLHttpRequest?](https://medium.com/beginners-guide-to-mobile-web-development/the-fetch-api-2c962591f5c) - Article
+- [Ajax Battle: XMLHttpRequest vs Fetch API](https://blog.openreplay.com/ajax-battle-xmlhttprequest-vs-fetch/) - Article
 
 ---
 
 ### **JavaScript Classes**
 
-- [JavaScript Classes](https://javascript.info/classes) - Article  
-- [Understanding JavaScript Classes](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes) - Article  
+- [JavaScript Classes](https://javascript.info/classes) - Article
+- [Understanding JavaScript Classes](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes) - Article
 
 ---
 
 ### **Iterators and Generators**
 
-- [Introduction to Iterators](https://www.codeguage.com/courses/advanced-js/iteration-introduction) - Article  
-- [Detailed Discussion on Iterators](https://www.codeguage.com/courses/advanced-js/iteration-iterators) - Article  
-- [What Exactly Are Generators?](https://www.codeguage.com/courses/advanced-js/iteration-generators) - Article  
+- [Introduction to Iterators](https://www.codeguage.com/courses/advanced-js/iteration-introduction) - Article
+- [Detailed Discussion on Iterators](https://www.codeguage.com/courses/advanced-js/iteration-iterators) - Article
+- [What Exactly Are Generators?](https://www.codeguage.com/courses/advanced-js/iteration-generators) - Article
 
 ---
 
 ### **Modules**
 
-- [Introduction to Modules](https://javascript.info/modules-intro) - Article  
-- [Export and Import in JavaScript](https://javascript.info/import-export) - Article  
-- [Dynamic Imports](https://javascript.info/modules-dynamic-imports) - Article  
+- [Introduction to Modules](https://javascript.info/modules-intro) - Article
+- [Export and Import in JavaScript](https://javascript.info/import-export) - Article
+- [Dynamic Imports](https://javascript.info/modules-dynamic-imports) - Article
 
 ---
 
 ### **Memory Management**
 
-- [JavaScript Garbage Collection](https://javascript.info/garbage-collection) - Article  
-- [Memory Management in JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Memory_management) - Article  
+- [JavaScript Garbage Collection](https://javascript.info/garbage-collection) - Article
+- [Memory Management in JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Memory_management) - Article
 
 ---
 
