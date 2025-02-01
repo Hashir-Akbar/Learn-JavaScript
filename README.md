@@ -1,6 +1,6 @@
 # **Learn JavaScript 📚**
 
-Learning JavaScript is quite troublesome for beginners, especially students like me who learns from youtube unsequence based and moreover, after completing a playlist or course we get to know that this or that topic is left. We know about how language works new features are proposed and then new things daily implement. But I want to make a list for the all Basic Concepts that is common in all javascript developers and common concepts in language that are used in interviews and those concepts should be clear if we have to go for react for frontend or node js for backend, If these concepts are cleared then you are good to go forward but always remember learning never stops most importantly in languages that evolve time to time.
+Learning JavaScript is quite troublesome for beginners, especially students like me who learn from youtube unsequence based and moreover, after completing a playlist or course we get to know that this or that topic is left. We know about how language works new features are proposed and then new things daily implement. But I want to make a list for the all Basic Concepts that is common in all javascript developers and common concepts in language that are used in interviews and those concepts should be clear if we have to go for react for frontend or node js for backend, If these concepts are cleared then you are good to go forward but always remember learning never stops most importantly in languages that evolve time to time.
 
 ---
 
