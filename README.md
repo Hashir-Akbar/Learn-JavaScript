@@ -1,6 +1,6 @@
 # **Learn JavaScript 📚**
 
-A JavaScript handbook for all levels of developer whether beginners who are looking to get into javascript concepts or experienced who want to refresh their concepts.
+A JavaScript handbook for developers of all levels, whether you're a beginner exploring JavaScript concepts or an experienced developer looking to refresh your knowledge.This handbook will help you understand core principles, improve coding skills, and stay up to date with best practices.
 
 ---
 
