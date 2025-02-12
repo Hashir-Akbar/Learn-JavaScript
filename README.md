@@ -35,17 +35,10 @@ A JavaScript handbook for developers of all levels, whether you're a beginner ex
 
 ---
 
-### **JavaScript Type Casting**
-
-- [Type Conversions in Detail](https://javascript.info/type-conversions) - Article
-- [JavaScript Type Conversion & Coercion](https://medium.com/@mila.mirovic98/javascript-fundamentals-type-conversion-coercion-8bbba10c9925) - Article
-- [JS Type Conversion (Explicit & Implicit)](https://www.freecodecamp.org/news/coercion-and-type-conversion-in-javascript/) - Article
-
----
-
 ### **Expressions and Operators**
 
 - [JavaScript Expressions and Operators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_operators) - Article
+
 
 ---
 
@@ -53,6 +46,15 @@ A JavaScript handbook for developers of all levels, whether you're a beginner ex
 
 - [JavaScript Comparisons](https://www.w3schools.com/js/js_comparisons.asp) - Article
 - [Equality Operators in JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators#equality_operators) - Article
+
+
+---
+
+### **JavaScript Type Casting**
+
+- [Type Conversions in Detail](https://javascript.info/type-conversions) - Article
+- [JavaScript Type Conversion & Coercion](https://medium.com/@mila.mirovic98/javascript-fundamentals-type-conversion-coercion-8bbba10c9925) - Article
+- [JS Type Conversion (Explicit & Implicit)](https://www.freecodecamp.org/news/coercion-and-type-conversion-in-javascript/) - Article
 
 ---
 
