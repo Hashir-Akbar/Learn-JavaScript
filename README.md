@@ -131,6 +131,7 @@ A JavaScript handbook for developers of all levels, whether you're a beginner ex
 
 - [JavaScript Classes](https://javascript.info/classes) - Article
 - [Understanding JavaScript Classes](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes) - Article
+- [OOP in JavaScript](https://youtu.be/PFmuCDHHpwk?si=pSxL0KJg0fH48Obu) - Youtube Video
 
 ---
 
