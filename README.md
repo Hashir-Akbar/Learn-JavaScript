@@ -38,6 +38,8 @@ A JavaScript handbook for developers of all levels, whether you're a beginner ex
 ### **Expressions and Operators**
 
 - [JavaScript Expressions and Operators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_operators) - Article
+- [Mastering Expressions, Operators, and Functions in JavaScript](https://medium.com/@bartzalewski/mastering-expressions-operators-and-functions-in-javascript-b352b5ea67d8) - Article
+
 
 
 ---
