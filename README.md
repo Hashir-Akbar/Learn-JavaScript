@@ -157,6 +157,7 @@ A JavaScript handbook for developers of all levels, whether you're a beginner ex
 
 - [JavaScript Garbage Collection](https://javascript.info/garbage-collection) - Article
 - [Memory Management in JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Memory_management) - Article
+- [Optimize Like a Pro: JavaScript Memory Techniques for Large Projects ](https://dev.to/chintanonweb/optimize-like-a-pro-javascript-memory-techniques-for-large-projects-j22) - Article
 
 ---
 
