@@ -69,7 +69,8 @@ A JavaScript handbook for developers of all levels, whether you're a beginner ex
 ### **JavaScript Loops and Iterations**
 
 - [Loops and Iteration](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Loops_and_iteration) - Article
-
+- [All About JavaScript Loops](https://css-tricks.com/all-about-javascript-loops/) - Article
+  
 ---
 
 ### **JavaScript Functions**
